@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MS269/typechain#readme",
   "dependencies": {
+    "crypto-js": "^4.1.1",
     "typescript": "^4.3.5"
   },
   "devDependencies": {
